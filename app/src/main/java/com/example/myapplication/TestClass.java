@@ -11,5 +11,7 @@ public class TestClass {
     public static void main(String[] args) {
 
         System.out.println(String.format(Locale.getDefault(), "Long value is = [%d]",755444L));
+        System.out.println(String.format(Locale.getDefault(), "Long value is = [%d]",755444L));
+        System.out.println(String.format(Locale.getDefault(), "Long value is = [%d]",755444L));
     }
 }
